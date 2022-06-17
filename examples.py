@@ -1,4 +1,5 @@
 #Quiz 1 (section 1, question 1)
+
 	#Running this will result in NameError
 """def a_function(a_parameter):    
     a_variable = 15    
@@ -58,7 +59,7 @@ E. Method
 	#What is the output of this code? 
 def foo(a, b=4, c=6):
     print(a, b, c)
- 
+  
 foo(20, c=12)
 #prints: 20, 4, 12
 
@@ -80,3 +81,5 @@ result = [num + 3 for num in numbers if num % 2 == 0]
 print(result)
 #prints: [5, 11, 37]
 #Need to review this after going going through section 1/day 1
+
+#continue adding more examples here from the course
